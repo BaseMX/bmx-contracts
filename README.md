@@ -1,5 +1,5 @@
-# GMX Contracts
-Contracts for GMX.
+# BMX Contracts
+Contracts for BMX.
 
 Docs at https://gmxio.gitbook.io/gmx/contracts.
 
